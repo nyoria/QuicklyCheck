@@ -1,7 +1,5 @@
 # QuicklyCheck 
 
-`🇺🇸 English`
-
 ![Minecraft](https://img.shields.io/badge/Minecraft-informational?logo=minecraft)  
 ![License](https://img.shields.io/badge/License-MIT-success)  
 
